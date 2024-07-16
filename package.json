@@ -1,0 +1,17 @@
+{
+  "name": "wisestart-singleton-pattern",
+  "version": "1.0.0",
+  "description": "### Did someone say Typescript? For the first time ever you can checkout the branch `typescript` to see the same exercise implemented in Typescript.",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.2",
+    "typescript": "^5.5.3"
+  }
+}

@@ -32,4 +32,4 @@ Implement a Singleton class `Configuration Manager` in Java and run JUnit tests 
    - This challenge should provide a compelling and realistic scenario for utilizing the Singleton Pattern while giving your graduate engineers practical experience with concurrent programming and unit testing in Java.
 
 #### Hint:
-If you want to see how it is done checkout the `solution` branch.
+If you want to see how it is done checkout the `typescript-solution` branch.
