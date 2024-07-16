@@ -1,0 +1,1 @@
+# wisestart-singleton-pattern
